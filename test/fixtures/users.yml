@@ -3,5 +3,4 @@ brian:
   last_name: "Lau"
   email: "laudbrian@gmail.com"
   profile_name: "laudbrian"
-  password: "password"
-  password_confirmation "password"
+
