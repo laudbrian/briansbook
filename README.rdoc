@@ -1,6 +1,6 @@
 == README
 
-BRIANSBOOK - recreating status feeds that look like Facebooks
+BRIANSBOOK - recreating status feeds that look like Facebooks, test
 
 * Ruby version 2.0.0
 
